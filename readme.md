@@ -1,4 +1,4 @@
-# MariaDB Docker Image
+# MariaDB Docker
 
 [**DockerHub Repository Link**](https://hub.docker.com/repository/docker/registryhj/mariadb/general)
 
