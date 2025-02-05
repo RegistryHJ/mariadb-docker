@@ -6,10 +6,12 @@
 
 ## Supported Tags
 
-- [`11.6`](https://hub.docker.com/repository/docker/registryhj/mariadb/tags/11.6/sha256-dea6df08ccacc3ab8c2aa926c0487b7c89635b347756dc1d1389b9d32c074083) (`11.6.2-noble`, `latest`)
-- [`11.4`](https://hub.docker.com/repository/docker/registryhj/mariadb/tags/11.4/sha256-4bc6842f47994ba3b412564994c0097c4034130471fa749db6639a68132f07b0): (`11.4.4-noble`, `lts`)
-- [`11.2`](https://hub.docker.com/repository/docker/registryhj/mariadb/tags/11.2/sha256-67a0fa28368912d5c8d5c34af33b7a86d54bf0a47a348adab866cb161ebe8af3): (`11.2.6-jammy`)
-- [`10.11`](https://hub.docker.com/repository/docker/registryhj/mariadb/tags/10.11/sha256-b240ff74a8059503c5f73b012e034e3e69174f1891386430413f34fcac460321): (`10.11.10-jammy`)
+- [`11.6`](https://hub.docker.com/repository/docker/registryhj/mariadb/tags/11.6/sha256-aa3c5c88383b5996c7ae61200817b1c433692bc9430bc494498d97d5209a2a8c) (`11.6.2-noble`, `latest`)
+- [`11.4`](https://hub.docker.com/repository/docker/registryhj/mariadb/tags/11.4/sha256-e8c4c9c1c4a865a530eb6cf30f06b69eed9f825eefd499afc9f783a9b0fdbd6f): (`11.4.4-noble`, `lts`)
+- [`11.2`](https://hub.docker.com/repository/docker/registryhj/mariadb/tags/11.2/sha256-547ea292b7bebd82f9cb8daca9fae574997bab03e8353f3be8e162d7d191c0a6): (`11.2.6-jammy`)
+- [`10.11`](https://hub.docker.com/repository/docker/registryhj/mariadb/tags/10.11/sha256-19ef48ed41de4e20c2481bf1bb664e4ca053bf7cc8ad88b73cf57b236df91041): (`10.11.10-jammy`)
+
+<br />
 
 ## How to use
 
