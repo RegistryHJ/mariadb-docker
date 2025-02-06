@@ -1,6 +1,6 @@
 # MariaDB Docker
 
-[**DockerHub Repository Link**](https://hub.docker.com/repository/docker/registryhj/mariadb/general)
+[**DockerHub Repository Link**](https://hub.docker.com/r/registryhj/mariadb)
 
 <br />
 
